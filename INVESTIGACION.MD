@@ -1,15 +1,15 @@
 Taller de Investigación: Fundamentos de HTML
-Nombre del Estudiante: [Escribe tu nombre completo aquí]
+Nombre del Estudiante: Tania Alate Gómez
 
 1. Anatomía de una Etiqueta HTML
 Etiqueta de Apertura y Cierre
 ¿Qué es una etiqueta de apertura?
 
-Escribe tu respuesta aquí.
+Es la etiqueta que genera el inicio de un texto
 
 ¿Qué es una etiqueta de cierre?
 
-Escribe tu respuesta aquí.
+Es la etiqueta que genera la finalización de un texto
 
 Atributos
 ¿Qué es un atributo y para qué sirve? Da un ejemplo.

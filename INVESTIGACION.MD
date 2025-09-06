@@ -46,8 +46,8 @@ Representa un contenido independiente.
 
 6: <aside>:
 
-Representa un contenido lateral  (Izquierda o Derecha) y contiene otras equiquetas.
- 
+Representa un contenido lateral  (Izquierda o Derecha) y contiene otras etiquetas.
+
 7: <footer>:
 
 Representa el pie de página del proyecto.
@@ -90,3 +90,4 @@ Representa fechas u horas específicas.
 
 20: <address>
 Proporciona información de contacto del autor o de la organización.
+

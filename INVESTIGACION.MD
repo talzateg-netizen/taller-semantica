@@ -14,7 +14,7 @@ Es la etiqueta que genera la finalización de un texto párrafo.
 Atributos
 ¿Qué es un atributo y para qué sirve? Da un ejemplo.
 
-Es un dato que forma parte de un objeto y describe alguna de sus propiedades, ejemplo <a href="https://www.avianca.com/">Ir al sitio web</a> El atributo href indica la URL o dirección a la que lleva el enlace.
+Es un dato que forma parte de un objeto y describe alguna de sus propiedades, ejemplo <a href="https://www.avianca.com/">Avianca</a> El atributo href indica la URL o dirección a la que lleva el enlace.
 
 
 2. El Poder de la Semántica

@@ -51,10 +51,42 @@ Representa un contenido lateral  (Izquierda o Derecha) y contiene otras equiquet
 7: <footer>:
 
 Representa el pie de página del proyecto.
-.
-.
-.
-.
-.
 
-20: 
+8: <details>
+Crea un widget que el usuario puede abrir o cerrar para ver más información.
+
+9: <summary>
+Es el título visible de un elemento <details> (se muestra aunque esté cerrado).
+
+10: <blockquote>
+Se usa para citas largas tomadas de otras fuentes.
+
+11: <cite>
+Se usa para nombrar la fuente de una cita o referencia.
+
+12: <code>
+Representa fragmentos de código o comandos de programación.
+
+13: <pre>
+Muestra texto con formato preestablecido (espaciado y saltos de línea se respetan).
+
+14: <em>
+Se usa para enfatizar texto, generalmente se muestra en cursiva.
+
+15: <h1> a <h6>
+Representan títulos y subtítulos, siendo <h1> el más importante y <h6> el menos.
+
+16: <figure>
+Encierra contenido gráfico o visual relacionado, como imágenes o diagramas.
+
+17: <figcaption>
+Proporciona una descripción o pie de imagen para el contenido dentro de <figure>.
+
+18: <mark>
+Resalta texto importante o relevante.
+
+19: <time>
+Representa fechas u horas específicas.
+
+20: <address>
+Proporciona información de contacto del autor o de la organización.

@@ -21,7 +21,8 @@ Es un dato que forma parte de un objeto y describe alguna de sus propiedades, ej
 HTML Semántico
 ¿Qué es el HTML Semántico y por qué es tan importante?
 
-Es el uso de etiquetas para el significado de la información  o del contenido en las páginas web, es compatible con todos los buscadores y dispositivos,  seo  le da visibilidad a la página web
+Es el uso de etiquetas que dan significado al contenido en las páginas web. Es importante porque mejora la compatibilidad con buscadores y dispositivos, aumenta la visibilidad del sitio (SEO) y facilita que los programas de lectura en voz alta entiendan mejor la estructura de la página, mejorando la accesibilidad.
+
 Diccionario de Etiquetas Semánticas
 1: <header>:
 

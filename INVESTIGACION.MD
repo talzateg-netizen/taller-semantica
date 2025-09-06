@@ -1,5 +1,5 @@
 Taller de Investigación: Fundamentos de HTML
-Nombre del Estudiante: [Escribe tu nombre completo aquí]
+Nombre del Estudiante: [Tania Jaqueline Alzate Gómez]
 
 1. Anatomía de una Etiqueta HTML
 Etiqueta de Apertura y Cierre

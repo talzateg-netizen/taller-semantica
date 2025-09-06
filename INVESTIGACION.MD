@@ -1,5 +1,5 @@
 Taller de Investigación: Fundamentos de HTML
-Nombre del Estudiante: Tania Alate Gómez
+Nombre del Estudiante: Tania Alzate Gómez
 
 1. Anatomía de una Etiqueta HTML
 Etiqueta de Apertura y Cierre
